@@ -1,3 +1,25 @@
 ## Command to enable git in a directory/folder
 
 git init
+
+## Command to stage changes
+
+git add filename
+
+## Command to commit changes
+
+git commit -m "Message here"
+
+## Command to check status of current working tree
+
+git status
+
+## Command to list all the commits
+
+git log
+
+## Command to push the local commit to remote
+
+git push
+
+git push --set-upstream origin master
