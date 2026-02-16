@@ -27,3 +27,9 @@ git push --set-upstream origin master
 ## Command to create new branch
 
 git checkout -b branchName
+
+## Command to switch to another branch
+git checkout branchName
+
+## Command to clone a repository
+git clone https://github.com/vaaluvishnu5146/LearningGit.git
