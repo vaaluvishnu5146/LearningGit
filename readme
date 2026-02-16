@@ -23,3 +23,7 @@ git log
 git push
 
 git push --set-upstream origin master
+
+## Command to create new branch
+
+git checkout -b branchName
